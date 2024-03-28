@@ -114,6 +114,10 @@
         </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>
+            <artifactId>language-ko</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.languagetool</groupId>
             <artifactId>language-km</artifactId>
         </dependency>
         <dependency>

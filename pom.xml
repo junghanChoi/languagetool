@@ -53,6 +53,7 @@
         <module>languagetool-language-modules/el</module>
         <module>languagetool-language-modules/is</module>
         <module>languagetool-language-modules/ja</module>
+        <module>languagetool-language-modules/ko</module>
         <module>languagetool-language-modules/km</module>
         <module>languagetool-language-modules/lt</module>
         <module>languagetool-language-modules/ml</module>
@@ -826,6 +827,11 @@
             <dependency>
                 <groupId>org.languagetool</groupId>
                 <artifactId>language-ja</artifactId>
+                <version>${revision}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.languagetool</groupId>
+                <artifactId>language-ko</artifactId>
                 <version>${revision}</version>
             </dependency>
             <dependency>
